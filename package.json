@@ -1,0 +1,22 @@
+{
+  "name": "code-with-ayesha-simple-calculator",
+  "version": "1.0.1",
+  "description": "\"simple calculator\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "code-with-ayesha-simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "code-with-ayesha-simple-calculator": "^1.0.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
